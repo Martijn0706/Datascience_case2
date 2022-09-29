@@ -17,7 +17,6 @@ matplotlib-inline=0.1.6=py39haa95532_0
 notebook=6.4.12=py39haa95532_0
 numpy=1.23.3=pypi_0
 pandas=1.5.0=pypi_0
-pip=22.1.2=py39haa95532_0
 pipreqs=0.4.11=pypi_0
 plotly=5.10.0=pypi_0
 plotly-express=0.4.1=pypi_0
